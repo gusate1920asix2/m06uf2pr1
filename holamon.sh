@@ -1,4 +1,7 @@
 #!/bin/bash
 clear
-echo "titu"
+echo "Hola món"
+Autor: Guillem Salas  
+Data: 7 de febrer
 exit 0
+
