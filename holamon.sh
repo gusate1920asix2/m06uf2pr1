@@ -1,4 +1,4 @@
 #!/bin/bash
 clear
-echo "Hola món"
+echo "titu"
 exit 0
